@@ -34,7 +34,7 @@ export const lagu = {
   33: { link: './lagu/salwa.mp3', pencipta: 'Hoobastank', judul: 'The Reason', keterangan: 'Alternatif rock awal 2000-an yang emosional dan penuh penyesalan sekaligus refleksi diri.' }, // Salwa Aisyah Azri
   34: { link: './lagu/sela.mp3', pencipta: 'Dewa 19', judul: 'Pupus', keterangan: 'Pop-rock Indonesia legendaris yang megah, tragis, dan menjadi anthem patah hati nasional bergenerasi-generasi.' }, // Shela Lestari
   35: { link: './lagu/soba.mp3', pencipta: 'Trevor Daniel & Ariana Grande', judul: 'Past Life', keterangan: 'Pop R&B yang dreamy, modern, dan agak melankolis.' }, // Sobarina Al Maqhviro
-  36: { link: './lagu/suci.mp3', pencipta: 'Khai Dreams', judul: 'Sunkissed', keterangan: 'Lo-fi indie pop yang sangat santai, ceria, hangat, dan penuh nuansa musim panas.' }, // Suci Wulandari
+  36: { link: './lagu/suci.mp3', pencipta: "Khai Dreams", judul: "Sunkissed", keterangan: "Lo-fi indie pop yang sangat santai, ceria, hangat, dan penuh nuansa musim panas." }, // Suci Wulandari
   37: { link: './lagu/37.mp3', pencipta: '', judul: '', keterangan: '' }, // Uswatun Hasanah Oktaviani
   38: { link: './lagu/nita.mp3', pencipta: 'Kaleb J', judul: 'Kebutuhan Hati', keterangan: 'R&B pop lokal yang galau, menyayat hati, tapi tetap terdengar smooth dan nyaman di telinga.' }  // Yunita
 };
