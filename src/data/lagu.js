@@ -31,7 +31,7 @@ export const lagu = {
   30: { link: './lagu/30.mp3', pencipta: '', judul: '', keterangan: '' }, // Rico Adhytia
   31: { link: './lagu/fahmi.mp3', pencipta: 'Threesixty', judul: 'Dewi', keterangan: 'Melodic punk lokal yang bertenaga, cepat, tapi punya lirik yang emosional dan romantis dengan gaya jalanan.' }, // Rizallul Fahmi
   32: { link: './lagu/aidil.mp3', pencipta: 'Beach Bunny', judul: 'Prompt Queen', keterangan: 'Indie pop/garage rock yang upbeat dan energik secara musik, tapi punya lirik yang puitis dan reflektif tentang standar kecantikan, tekanan sosial, dan penerimaan diri.' }, // Rizqy Aidhil Rachman
-  33: { link: './lagu/salwa.mp3', pencipta: 'Hoobastank', judul: 'The Reason', keterangan: 'Alternatif rock awal 2000-an yang emosional dan penuh penyesalan sekaligus refleksi diri.' }, // Salwa Aisyah Azri
+  33: { link: './lagu/salwa.mp3', pencipta: "Hoobastank", judul: "The Reason", keterangan: "Alternatif rock awal 2000-an yang emosional dan penuh penyesalan sekaligus refleksi diri." }, // Salwa Aisyah Azri
   34: { link: './lagu/sela.mp3', pencipta: "Dewa 19", judul: "Pupus", keterangan: "Pop-rock Indonesia legendaris yang megah, tragis, dan menjadi anthem patah hati nasional bergenerasi-generasi." }, // Shela Lestari
   35: { link: './lagu/soba.mp3', pencipta: 'Trevor Daniel & Ariana Grande', judul: 'Past Life', keterangan: 'Pop R&B yang dreamy, modern, dan agak melankolis.' }, // Sobarina Al Maqhviro
   36: { link: './lagu/suci.mp3', pencipta: "Khai Dreams", judul: "Sunkissed", keterangan: "Lo-fi indie pop yang sangat santai, ceria, hangat, dan penuh nuansa musim panas." }, // Suci Wulandari
