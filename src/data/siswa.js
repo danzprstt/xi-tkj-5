@@ -19,7 +19,7 @@ export const SISWA = [
   {no:18, nama:"Karlytos Daniel", lp:"L", photo:"/siswa_i/itos.jpg"},
   {no:19, nama:"Maliki Damar Al Mughni", lp:"L", photo:""},
   {no:20, nama:"Melly Agustin", lp:"P", photo:"/siswa_i/meli.jpg"},
-  {no:21, nama:"Muhammad Dias Wildan Adam", lp:"L", photo:"/siswa_i/s21.jpg"},
+  {no:21, nama:"Muhammad Dias Wildan Adam", lp:"L", photo:"/siswa_i/idan.jpg"},
   {no:22, nama:"Muhammad Khadafi", lp:"L", photo:""},
   {no:23, nama:"Muhammad Rafif Ar Raqi", lp:"L", photo:""},
   {no:24, nama:"Muhammad Rava Alrosyid", lp:"L", photo:""},
@@ -38,3 +38,4 @@ export const SISWA = [
   {no:37, nama:"Uswatun Hasanah Oktaviani", lp:"P", photo:""},
   {no:38, nama:"Yunita", lp:"P", photo:"/siswa_i/yunita.jpg"},
 ];
+
