@@ -12,7 +12,7 @@ export const SISWA = [
   {no:11, nama:"Dewi Ayyudya Nagasari", lp:"P", photo:"/siswa_i/dewi.jpg"},
   {no:12, nama:"Dian Rahayu", lp:"P", photo:"/siswa_i/dian.jpg"},
   {no:13, nama:"Elis", lp:"P", photo:""},
-  {no:14, nama:"Haykal Syahmaludin Kamil", lp:"L", photo:""},
+  {no:14, nama:"Haykal Syahmaludin Kamil", lp:"L", photo:"/siswa_i/s14.jpg"},
   {no:15, nama:"Ihsan Zamir Juhanto", lp:"L", photo:""},
   {no:16, nama:"Kania Waliani", lp:"P", photo:"/siswa_i/kania.jpg"},
   {no:17, nama:"Karline Widy Wijaya", lp:"P", photo:"/siswa_i/karlin.jpg"},
