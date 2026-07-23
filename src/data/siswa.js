@@ -30,7 +30,7 @@ export const SISWA = [
   {no:29, nama:"Raffa Azzam Hafifi", lp:"L", photo:"/siswa_i/ajam.jpg"},
   {no:30, nama:"Rico Adhytia", lp:"L", photo:"/siswa_i/riko.jpg"},
   {no:31, nama:"Rizallul Fahmi", lp:"L", photo:"siswa_i/momot.jpg"},
-  {no:32, nama:"Rizqy Aidhil Rachman", lp:"L", photo:""},
+  {no:32, nama:"Rizqy Aidhil Rachman", lp:"L", photo:"./siswa_i/aidil.jpg"},
   {no:33, nama:"Salwa Aisyah Azri", lp:"P", photo:"/siswa_i/salwa.jpg"},
   {no:34, nama:"Shela Lestari", lp:"P", photo:"/siswa_i/sela.jpg"},
   {no:35, nama:"Sobarina Al Maqhviro", lp:"P", photo:"/siswa_i/soba.jpg"},
