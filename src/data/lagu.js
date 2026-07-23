@@ -19,7 +19,7 @@ export const lagu = {
   18: { link: './lagu/itos.mp3', pencipta: 'The Jansen', judul: 'Berkelana Dalam Ruang dan Mimpi', keterangan: 'Pop-punk/indie-rock analog dengan sound mentah khas tahun 70-an/80-an. Ketukannya cepat, dinamis, tapi liriknya membawa nuansa khayalan dan kebebasan berpikir.' }, // Karlytos Daniel
   19: { link: './lagu/19.mp3', pencipta: '', judul: '', keterangan: '' }, // Maliki Damar Al Mughni
   20: { link: './lagu/meli.mp3', pencipta: 'For Revenge', judul: 'Penyangkalan', keterangan: 'Emo/Modern rock lokal yang meledak-ledak, penuh distorsi gitar, dan lirik patah hati yang sangat perih.' }, // Melly Agustin
-  21: { link: './lagu/idan.mp3', pencipta: "Taylor Swift", judul: "Megamix", keterangan: "Energik, seru, dan full-power! Perpaduan dari berbagai era musik Taylor Swift—dari era country awal, pop ceria, hingga synth-pop yang dramatis—digabung jadi satu trek yang dinamis dan gak ngebosenin." }, // Muhammad Dias Wildan Adam
+  21: { link: "/lagu/idan.m4a", pencipta: "Neck Deep", judul: "In Bloom", keterangan: "Pop-punk emosional yang energik dan catchy. Tipe lagu coming-of-age yang pas banget buat meluapkan unek-unek tentang proses pendewasaan dan nemuin arah hidup baru." }, // Muhammad Dias Wildan Adam
   22: { link: './lagu/22.mp3', pencipta: '', judul: '', keterangan: '' }, // Muhammad Khadafi
   23: { link: './lagu/23.mp3', pencipta: '', judul: '', keterangan: '' }, // Muhammad Rafif Ar Raqi
   24: { link: './lagu/rafa.mp3', pencipta: 'Justin Bieber', judul: 'Flatline', keterangan: 'R&B/Pop pertengahan 2010-an yang catchy, emosional, dan berfokus pada rasa rindu serta komunikasi yang terputus.' }, // Muhammad Rava Alrosyid
