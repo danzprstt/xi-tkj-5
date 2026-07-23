@@ -2,7 +2,7 @@ export const lagu = {
   1:  { link: './lagu/ada.mp3',  pencipta: 'Tiara Andini', judul: 'Tanpa Cinta', keterangan: 'Pop ballad Indonesia yang emosional, megah, dan menyayat hati. Vokal Tiara Andini yang kuat membawa nuansa ketegasan di tengah rasa sakit karena harus melepaskan seseorang yang sudah tidak lagi memberikan cinta.' }, // Adha Vanrizal
   2:  { link: './lagu/2.mp3',  pencipta: '', judul: '', keterangan: '' }, // Afrand Al Gheysar
   3:  { link: './lagu/agus.mp3',  pencipta: 'Oasis', judul: 'Whatever', keterangan: 'Britpop klasik era 90-an yang megah, ceria, dan penuh kebebasan.' }, // Agus Setiawan
-  4:  { link: './lagu/sipa.mp3',  pencipta: 'Taylor Swift', judul: 'loml', keterangan: 'Piano ballad yang sangat melankolis, puitis, dan penuh rasa kehilangan. Lagu ini menceritakan tentang seseorang yang awalnya dianggap sebagai love of my life (cinta sehidup semati), namun akhirnya berubah menjadi loss of my life (kehilangan terbesar dalam hidup).' }, // Alsyifa Annatul Fatwa
+  4:  { link: "/lagu/sipa.mp3",  pencipta: "Taylor Swift", judul: "all to well", keterangan: "" }, // Alsyifa Annatul Fatwa
   5:  { link: './lagu/anisa.mp3',  pencipta: 'Daniel Caesar', judul: 'Hold Me Down', keterangan: 'R&B/Soul yang lambat, intim, groovy, dan sangat kental dengan nuansa musik gereja/gospel modern.' }, // Anisa Ramadani
   6:  { link: './lagu/6.mp3',  pencipta: '', judul: '', keterangan: '' }, // Ariffa Cahyan Putra
   7:  { link: './lagu/audia.mp3',  pencipta: 'LANY', judul: 'DNA', keterangan: 'Indie-pop elektronik modern yang manis, bucin, dan easy listening.' }, // Audia Safira
