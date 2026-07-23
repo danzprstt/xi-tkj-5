@@ -1,0 +1,1 @@
+Taruh paimam.png (foto wali kelas), audio.mp3 (musik latar), dan thumbnail.jpg (cover musik) langsung di folder public/ ini (bukan di dalam subfolder).

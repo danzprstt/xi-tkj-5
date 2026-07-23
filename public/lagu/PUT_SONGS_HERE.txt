@@ -1,0 +1,3 @@
+Taruh semua file lagu (.mp3) di sini sesuai nama yang direferensikan
+di src/data/lagu.js untuk tiap nomor siswa. Hapus file txt ini kalau
+sudah tidak perlu.

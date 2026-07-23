@@ -1,0 +1,3 @@
+Taruh semua foto kenangan (Foto Kenangan / Memory) di sini sesuai nama
+yang direferensikan di src/data/foto.js (img1.jpg, img2.jpg, dst).
+Hapus file txt ini kalau sudah tidak perlu.

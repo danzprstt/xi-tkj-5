@@ -1,0 +1,3 @@
+Taruh semua foto siswa di sini (file .jpg/.png sesuai nama yang
+direferensikan di src/data/siswa.js, contoh: ada.jpg, agus.jpg, dst).
+Hapus file txt ini kalau sudah tidak perlu.
