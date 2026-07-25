@@ -30,7 +30,7 @@ export const lagu = {
   29: { link: './lagu/ajam.mp3', pencipta: 'Dave, Tems', judul: 'Raindance', keterangan: 'Beat Afro-R&B yang mellow bikin lagunya fleksibel—enak dibikin lagu pengantar tidur, tapi tetap asyik buat diputar di perjalanan malam hari.' }, // Raffa Azzam Hafifi
   30: { link: './lagu/30.mp3', pencipta: '', judul: '', keterangan: '' }, // Rico Adhytia
   31: { link: './lagu/fahmi.mp3', pencipta: 'Threesixty', judul: 'Dewi', keterangan: 'Melodic punk lokal yang bertenaga, cepat, tapi punya lirik yang emosional dan romantis dengan gaya jalanan.' }, // Rizallul Fahmi
-  32: { link: './lagu/aidil.mp3', pencipta: 'Beach Bunny', judul: 'Prompt Queen', keterangan: 'Indie pop/garage rock yang upbeat dan energik secara musik, tapi punya lirik yang puitis dan reflektif tentang standar kecantikan, tekanan sosial, dan penerimaan diri.' }, // Rizqy Aidhil Rachman
+  32: { link: "/lagu/aidil.mp3", pencipta: "Cloudpllay", judul: "Fix You", keterangan: "" }, // Rizqy Aidhil Rachman
   33: { link: './lagu/salwa.mp3', pencipta: "Hoobastank", judul: "The Reason", keterangan: "Alternatif rock awal 2000-an yang emosional dan penuh penyesalan sekaligus refleksi diri." }, // Salwa Aisyah Azri
   34: { link: './lagu/sela.mp3', pencipta: "Dewa 19", judul: "Pupus", keterangan: "Pop-rock Indonesia legendaris yang megah, tragis, dan menjadi anthem patah hati nasional bergenerasi-generasi." }, // Shela Lestari
   35: { link: './lagu/soba.mp3', pencipta: 'Trevor Daniel & Ariana Grande', judul: 'Past Life', keterangan: 'Pop R&B yang dreamy, modern, dan agak melankolis.' }, // Sobarina Al Maqhviro
