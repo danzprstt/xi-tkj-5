@@ -1,0 +1,72 @@
+.private-admin-gate{max-width:380px;}
+.private-admin-role-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;width:100%;}
+.private-admin-role-btn{
+  background:var(--bg3);border:1px solid var(--border);border-radius:10px;
+  padding:10px 8px;color:var(--cream);font-size:.75rem;cursor:pointer;transition:all .2s;
+}
+.private-admin-role-btn:hover{border-color:var(--border2);}
+.private-admin-role-btn.active{border-color:var(--gold);background:rgba(245,200,66,.12);color:var(--gold);}
+
+.private-admin-topbar{
+  display:flex;align-items:center;justify-content:space-between;
+  background:var(--bg2);border:1px solid var(--border);border-radius:12px;
+  padding:12px 16px;margin-bottom:16px;font-size:.8rem;color:var(--muted);
+}
+.private-admin-topbar b{color:var(--gold);}
+.private-admin-logout{
+  display:flex;align-items:center;gap:6px;background:none;border:1px solid var(--border2);
+  color:var(--muted);border-radius:8px;padding:6px 12px;cursor:pointer;font-size:.72rem;
+}
+.private-admin-logout:hover{color:#ff5c7a;border-color:rgba(255,92,122,.4);}
+
+.private-admin-tabs{display:flex;gap:8px;margin-bottom:20px;flex-wrap:wrap;}
+.private-admin-tabs button{
+  display:flex;align-items:center;gap:6px;background:var(--bg2);border:1px solid var(--border);
+  color:var(--muted);border-radius:50px;padding:8px 16px;cursor:pointer;font-size:.78rem;transition:all .2s;
+}
+.private-admin-tabs button:hover{border-color:var(--border2);}
+.private-admin-tabs button.active{background:linear-gradient(135deg,var(--gold),var(--amber));color:#080810;border-color:transparent;font-weight:700;}
+
+.private-admin-panel{max-width:640px;}
+.private-admin-panel h3{display:flex;align-items:center;gap:8px;font-family:'Syne',sans-serif;font-size:1.05rem;color:var(--cream);margin-bottom:16px;}
+.private-admin-hint{font-size:.75rem;color:var(--muted);margin-bottom:14px;}
+.private-admin-saldo{
+  background:rgba(245,200,66,.08);border:1px solid var(--border2);border-radius:10px;
+  padding:10px 14px;margin-bottom:16px;font-size:.85rem;color:var(--text);
+}
+.private-admin-saldo b{color:var(--gold);}
+
+.private-admin-form{
+  background:var(--bg2);border:1px solid var(--border);border-radius:14px;
+  padding:16px;display:flex;flex-direction:column;gap:10px;margin-bottom:20px;
+}
+.private-admin-form input,.private-admin-form select,.private-admin-form textarea{
+  width:100%;background:var(--bg3);border:1px solid var(--border);border-radius:9px;
+  padding:9px 12px;color:var(--cream);font-family:'DM Sans',sans-serif;font-size:.82rem;outline:none;
+}
+.private-admin-form button{
+  display:flex;align-items:center;justify-content:center;gap:6px;
+  background:linear-gradient(135deg,var(--gold),var(--amber));color:#080810;border:none;
+  border-radius:9px;padding:10px 0;font-weight:700;cursor:pointer;font-size:.82rem;
+}
+.private-admin-form button:disabled{opacity:.6;cursor:default;}
+.private-admin-status{font-size:.72rem;color:var(--gold);}
+
+.private-admin-list{display:flex;flex-direction:column;gap:10px;}
+.private-admin-item{
+  display:flex;justify-content:space-between;align-items:flex-start;gap:10px;
+  background:var(--bg2);border:1px solid var(--border);border-radius:12px;padding:12px 14px;
+}
+.private-admin-item-title{font-family:'DM Sans',sans-serif;font-weight:600;font-size:.82rem;color:var(--cream);}
+.private-admin-deadline{font-family:'DM Mono',monospace;font-size:.68rem;color:var(--gold);font-weight:400;}
+.private-admin-item-sub{font-family:'DM Mono',monospace;font-size:.65rem;color:var(--muted);margin-top:3px;display:flex;align-items:center;gap:4px;}
+.private-admin-item-desc{font-size:.75rem;color:var(--text);margin-top:5px;line-height:1.5;}
+.private-admin-item-actions{display:flex;gap:6px;flex-shrink:0;}
+.private-admin-item-actions button{
+  width:28px;height:28px;border-radius:7px;background:var(--bg3);border:1px solid var(--border2);
+  color:var(--muted);display:flex;align-items:center;justify-content:center;cursor:pointer;
+}
+.private-admin-item-actions button:hover{color:var(--gold);border-color:var(--gold);}
+.private-admin-kas-badge{font-family:'DM Mono',monospace;font-size:.72rem;font-weight:700;padding:2px 8px;border-radius:50px;}
+.private-admin-kas-badge.masuk{color:#4ade80;background:rgba(74,222,128,.1);}
+.private-admin-kas-badge.keluar{color:#ff5c7a;background:rgba(255,92,122,.1);}
