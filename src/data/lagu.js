@@ -21,7 +21,7 @@ export const lagu = {
   20: { link: './lagu/meli.mp3', pencipta: 'For Revenge', judul: 'Penyangkalan', keterangan: 'Emo/Modern rock lokal yang meledak-ledak, penuh distorsi gitar, dan lirik patah hati yang sangat perih.' }, // Melly Agustin
   21: { link: "/lagu/idan.mp3", pencipta: "The 1975", judul: "About You", keterangan: "Dream-pop & shoegaze yang super cinematic, nostalgia, dan penuh rasa kangen yang belum kelar. Instrumennya megah dan bikin kerasa melayang-layang." }, // Muhammad Dias Wildan Adam
   22: { link: './lagu/22.mp3', pencipta: '', judul: '', keterangan: '' }, // Muhammad Khadafi
-  23: { link: './lagu/23.mp3', pencipta: '', judul: '', keterangan: '' }, // Muhammad Rafif Ar Raqi
+  23: { link: "/lagu/23.mp3", pencipta: "XXXTENTACION", judul: "YuNg BrAtZ", keterangan: "lagu anthem bagi generasi muda yang merasa terpinggirkan dan memilih untuk mengekspresikan identitasnya secara bebas dan tanpa batasan." }, // Muhammad Rafif Ar Raqi
   24: { link: './lagu/rafa.mp3', pencipta: 'Justin Bieber', judul: 'Flatline', keterangan: 'R&B/Pop pertengahan 2010-an yang catchy, emosional, dan berfokus pada rasa rindu serta komunikasi yang terputus.' }, // Muhammad Rava Alrosyid
   25: { link: './lagu/sarul.mp3', pencipta: 'Yuta (OST Kamen Rider Geats)', judul: 'Play Back', keterangan: 'J-Rock/J-Pop yang upbeat, energik, penuh semangat pahlawan, dan memacu adrenalin.' }, // Muhammad Syahrul Ramadhan
   26: { link: './lagu/nafi.mp3', pencipta: 'Olivia Rodrigo', judul: 'Drop Dead', keterangan: 'Pop-rock/punk remaja yang sarkastik, edgy, penuh kemarahan yang stylish, dan ekspresif.' }, // Nafisatu Rohmah
