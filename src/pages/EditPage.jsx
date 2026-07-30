@@ -161,6 +161,10 @@ function EditForm({ siswa, token, onSelesai }) {
           <input type="file" accept="audio/*" onChange={(e) => setLaguFile(e.target.files[0] || null)} hidden />
         </label>
       </div>
+      
+      <div className="editpage-form">
+        FILE MUSIC HARUS DI BAWAH 4,5 MB !
+      </div>
 
       <div className="editpage-field">
         <label>Judul lagu</label>
