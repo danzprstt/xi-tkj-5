@@ -20,7 +20,7 @@ export const SISWA = [
   {no:19, nama:"Maliki Damar Al Mughni", lp:"L", photo:""},
   {no:20, nama:"Melly Agustin", lp:"P", photo:"/siswa_i/meli.jpg"},
   {no:21, nama:"Muhammad Dias Wildan Adam", lp:"L", photo:"/siswa_i/idan.jpg"},
-  {no:22, nama:"Muhammad Khadafi", lp:"L", photo:""},
+  {no:22, nama:"Muhammad Khadafi", lp:"L", photo:"/siswa_i/s22.jpg"},
   {no:23, nama:"Muhammad Rafif Ar Raqi", lp:"L", photo:""},
   {no:24, nama:"Muhammad Rava Alrosyid", lp:"L", photo:""},
   {no:25, nama:"Muhammad Syahrul Ramadhan", lp:"L", photo:"/siswa_i/sarl.jpg"},
